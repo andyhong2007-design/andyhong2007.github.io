@@ -49,6 +49,8 @@ body {
     grid-template-columns: 110px 1fr;
     gap: 20px;
     align-items: center;
+    display: flex;
+    align-item: center;
 }
 
 .avatar{
@@ -63,6 +65,7 @@ body {
     height: 99px;
     object-fit: cover;
     display: block;
+
 }
 
 .profile-right h2 {
@@ -138,6 +141,7 @@ body {
     }
 
 }
+
 
 
 
