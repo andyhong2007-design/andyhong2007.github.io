@@ -112,7 +112,7 @@ body {
     font-size: 12px;
     padding: 12px;
     border-radius: 999px;
-    background-color: #4338ca;
+    background-color: #736cc0;
     border: 10x solid #e0e7ff;
 }
 
@@ -136,4 +136,5 @@ body {
     .section-card {
         padding: 20px 16px 18px;
     }
+
 }
