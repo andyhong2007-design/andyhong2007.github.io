@@ -48,7 +48,7 @@ body {
     display: grid;
     grid-template-columns: 110px 1fr;
     gap: 20px;
-    align-items: center;
+    align-items: flex-start;
     display: flex;
     align-item: center;
 }
@@ -141,6 +141,7 @@ body {
     }
 
 }
+
 
 
 
