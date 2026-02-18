@@ -63,6 +63,7 @@ body {
     font-size: 32px;
     font-weight: 600;
     box-shadow: 0 10px 25px rgba(79, 70, 229, 0.35);
+    overflow: hidden;
 }
 
 .avatar img {
@@ -145,6 +146,7 @@ body {
     }
 
 }
+
 
 
 
